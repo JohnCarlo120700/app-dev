@@ -3,9 +3,6 @@ My first repository
 
 
 <h1><em><strong>Cinematic Masterpiece : Heneral Luna</strong></em></h1>
-![Heneral Luna](Heneral+Luna+-+poster.jpg)
-
-
 
 <h2> What was the story about?</h2>
 <p><strong><em> Heneral Luna</em></strong> is a historical biopic that delves into the life of General Antonio Luna, one of the most brilliant and controversial military leaders in Philippine history. Set during the Philippine-American War, the film portrays Luna's fierce dedication to the cause of Philippine independence and his struggles against both external and internal enemies.
