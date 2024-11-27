@@ -3,7 +3,7 @@ My first repository
 
 
 <h1><em><strong>Cinematic Masterpiece : Heneral Luna</strong></em></h1>
-<img src="Heneral Luna.jpg" alt="Description of the image" width="500" height="300">
+![Heneral Luna](Heneral+Luna+-+poster.jpg)
 
 
 
